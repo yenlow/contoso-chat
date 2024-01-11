@@ -8,12 +8,12 @@ inputs:
     is_chat_history: true
   question:
     type: string
-    default: What can you tell me about your jackets?
+    default: What is a good beginner tent
     is_chat_input: true
     is_chat_history: false
   customerId:
     type: string
-    default: "2"
+    default: "3"
     is_chat_input: false
     is_chat_history: false
 outputs:
